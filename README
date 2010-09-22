@@ -1,0 +1,15 @@
+This Javascript bookmarklet works when you are
+reading user comments for a thread. It adds 3
+"buttons" on the lower right corner of the
+window: reload, byParent and byReply.
+
+"reload" reloads the page and shows you 
+the new comments (marked by a blue line
+on top of the comment).
+
+byParent & byReply sorts the comments newest
+to oldest. byParent sorts by the replies to
+the article. byReply sorts by replies to
+other comments. (Its a little confusing --
+I know!)
+
