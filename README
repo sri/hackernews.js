@@ -1,5 +1,10 @@
+Released under the MIT License.
+
 You can find a link to the actual bookmarklet
 here: http://defcraft.blogspot.com/2009/09/hacker-news-bookmarklet.html
+
+NOTE: There are some bugs with rendering but
+it should work unless the underlying HTML changes.
 
 This Javascript bookmarklet works when you are
 reading user comments for a thread. It adds 3
